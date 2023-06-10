@@ -56,7 +56,25 @@ ul li {
     color: aliceblue;
     border: 0cm;
     margin-top: 30px;
+
 }
+.introdaction a{
+    color: white;
+    text-decoration: none;
+}
+
+/* .Download-btn {
+    width: 200px;
+    height: 64px;
+    background:#FD6E0A;
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    font-weight: 800;
+    padding: 18px;
+    margin-top: 10px;
+
+} */
 
 .btn1 {
     position: relative;
@@ -71,6 +89,8 @@ ul li {
     font-size: large;
     font-weight: 800;
     margin-left: 30px;
+    background-color: #3b5998;
+    color: white;
 }
 
 .hi {
@@ -258,7 +278,7 @@ hr {
     margin-top: 30px;
     padding: 10px;
     gap: 120px;
-    
+
 
 }
 
@@ -266,12 +286,15 @@ hr {
     margin-right: 100px;
 }
 
-.content input[type="text"], input[type="email"],textarea{
+.content input[type="text"],
+input[type="email"],
+textarea {
     margin-bottom: 24px;
     border: 0;
     width: 100%;
     padding: 18px 30px;
 }
+
 /* .inputOne,
 .inputtwo {
     width: 461px;
