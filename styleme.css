@@ -125,6 +125,9 @@ ul li {
     position: relative;
     left: 120px;
 }
+.introdaction-part2 > img{
+    height: 700px;
+}
 
 main {
     max-width: 1140px;
